@@ -1,0 +1,31 @@
+.mainDiv {
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.img {
+  height: 40px;
+  margin-left: 20px;
+}
+.second {
+  display: flex;
+}
+.btn {
+  margin-left: 10px;
+  color: #ffffff;
+  background-color: #0967d2;
+  border-width: 0px;
+  width: 80px;
+  height: 40px;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+.list {
+  margin-left: 20px;
+  list-style-type: none;
+}
+.third{
+  display: flex;
+}

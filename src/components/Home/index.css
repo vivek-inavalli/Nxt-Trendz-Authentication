@@ -1,0 +1,24 @@
+/* Write your CSS code here */
+.mainDiv {
+  padding: 20px;
+  text-align: left;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.imgHome {
+  height: 300px;
+  margin-right: 40px;
+}
+.p {
+  margin-left: 0px;
+  max-width: 500px;
+}
+.btn2 {
+  color: #ffffff;
+  background-color: #0967d2;
+  border-width: 0px;
+  width: 150px;
+  height: 40px;
+  border-radius: 5px;
+}
